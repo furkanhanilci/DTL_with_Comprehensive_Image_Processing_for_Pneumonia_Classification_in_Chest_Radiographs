@@ -426,8 +426,8 @@ If you use this work in your research, please cite:
   title={Deep Transfer Learning (ResNet-152) with Comprehensive Image Pre-processing for Pneumonia Classification in Chest Radiographs},
   author={Hanilci, Furkan},
   journal={},
-  year={2024},
-  publisher={},
+  year={},
+  publisher={Furkan Hanilçi},
   url={https://github.com/furkanhanilci/DTL_with_Comprehensive_Image_Processing_for_Pneumonia_Classification_in_Chest_Radiographs}
 }
 ```
