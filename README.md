@@ -422,7 +422,7 @@ black src/
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{hanilci2024deep,
+@article{hanilci2025deep,
   title={Deep Transfer Learning (ResNet-152) with Comprehensive Image Pre-processing for Pneumonia Classification in Chest Radiographs},
   author={Hanilci, Furkan},
   journal={},
