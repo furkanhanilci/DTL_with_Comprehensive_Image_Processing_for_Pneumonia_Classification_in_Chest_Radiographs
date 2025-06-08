@@ -30,7 +30,7 @@ This repository contains the complete implementation of a deep transfer learning
 - ⚡ **Production-ready** deployment scripts
 
 ### **Research Paper:**
-The complete implementation of this deep transfer learning system, including ResNet-152 source code, comprehensive image pre-processing scripts, and experimental frameworks, is available at: https://github.com/furkanhanilci/DTL_with_Comprehensive_Image_Processing_for_Pneumonia_Classification_in_Chest_Radiographs
+The complete implementation of this deep transfer learning system, including ResNet-152 source code, comprehensive image pre-processing scripts, and experimental frameworks, is available at: paper/deep_transfer_learning_pneumonia_resnet152.pdf
 
 ## ✨ **Features**
 
